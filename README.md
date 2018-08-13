@@ -1,5 +1,5 @@
 # devops-aula02
-# Editar
+# Lista
 # Will Smith
 # Adam Sandler
 # Fabio Assunção
